@@ -10,7 +10,7 @@ Também há uma versão alternativa feita em `.py` que pode ser executado em qua
 
 ## Site usado
 
-O site utilizado para realizar o scrapping foi [este aqui](https://sites.google.com/view/tssdklscanptbr/p%C3%A1gina-inicial)
+O site utilizado para realizar o scrapping foi [este aqui](https://sites.google.com/view/tssdklscanptbr/)
 
 ## Bibliotecas e versões
 
@@ -26,7 +26,6 @@ As versões utilizadas foram:
 
 Abaixo a URL atualmente utilizada na raspagem de dados deste projeto:
 
-TSSDK - LN - BR: <https://sites.google.com/view/tssdklscanptbr/p%C3%A1gina-inicial>
+TSSDK - LN - BR: <https://sites.google.com/view/tssdklscanptbr/>
 
 ## Próximas etapas
-
